@@ -9,8 +9,12 @@ Estudiante de Ingeniería en la **Facultad de Ingeniería Mecánica y Eléctrica
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ReizDev&show_icons=true&theme=vivid&hide_border=true" height="160px" alt="Stats Generales" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ReizDev&layout=compact&theme=vivid&hide_border=true" height="160px" alt="Lenguajes Más Usados" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ReizDev&show_icons=true&theme=vivid&hide_border=true&cache_seconds=1800" alt="Stats Generales" />
+</p>
+
+### 💻 Lenguajes más usados
+<p align="center">
+  <img src="https://github-charts.io/c/ReizDev/projects" alt="Gráfica de Proyectos" />
 </p>
 
 ### 🔥 Mi Racha de Código
