@@ -12,10 +12,6 @@ Estudiante de Ingeniería en la **Facultad de Ingeniería Mecánica y Eléctrica
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ReizDev&show_icons=true&theme=vivid&hide_border=true&cache_seconds=1800" alt="Stats Generales" />
 </p>
 
-### 💻 Lenguajes más usados
-<p align="center">
-  <img src="https://github-charts.io/c/ReizDev/projects" alt="Gráfica de Proyectos" />
-</p>
 
 ### 🔥 Mi Racha de Código
 
